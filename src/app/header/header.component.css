@@ -1,0 +1,14 @@
+.headerBackground{
+    background-color: #1ABC9C;
+}
+.content img{
+    width: 15% !important;
+}
+.line{
+    width: 80px;
+    height: 4px;
+    background-color: white;
+}
+.content{
+    min-height: 80vh;
+}

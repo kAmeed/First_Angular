@@ -1,0 +1,9 @@
+.contactsBackground{
+    background-color: #2C3E50;
+}
+.contactsBackground .container-fluid{
+    min-height: 30vh;
+}
+.fa-brands{
+    width: 25px !important;
+}
